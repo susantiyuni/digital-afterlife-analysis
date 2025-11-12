@@ -1,4 +1,5 @@
-# Supplementary Materials: Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity (2025)
+# Supplementary Materials
+## Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity (2025)
 
 This repository contains the data and code accompanying the paper "_Between Death and Data: Algorithmic Afterlives and the Ethics of Digital Continuity._"
 The analysis explores public perceptions and emotional responses to AI-mediated interactions with digital representations of the deceased, based on a dataset of YouTube comments.
@@ -12,16 +13,20 @@ We analyzed **2,637 comments** from the YouTube documentary *“Living Forever T
 
 ## Explore the Full Analysis
 
-Run the `pipeline-analysis.ipynb` in Jupyter Notebook or Jupyter Lab to perform the full data processing and analysis. 
+First, install all dependencies by running:
+
+```
+pip install -r requirements.txt
+```
+To perform the full data processing and analysis, run the [`pipeline-analysis.ipynb`](pipeline-analysis.ipynb) notebook in in Jupyter Notebook or Jupyter Lab. 
 
 To download and analyze comments from your own YouTube video, change the YouTube URL in the notebook as shown below:
 ```
 youtube_url = 'https://www.youtube.com/watch?v=LTduwK0-sGI'  # Change this to your desired video URL
-
 ```
 This will automatically retrieve comments from the specified video and integrate them into the analysis pipeline.
 
-To visualize the analysis results, run the `visualization.ipynb`.
+To visualize the analysis results, run the [`visualization.ipynb`](visualization.ipynb).
 
 ## Repository Contents
 

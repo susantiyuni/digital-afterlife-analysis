@@ -4,3 +4,4 @@ This folder contains the dataset used in the analysis and the results, drawn fro
 
 - **ENDRV:** ["Living Forever Through AI: Digital Immortality and the Future of Death"](https://www.youtube.com/watch?v=LTduwK0-sGI)  
 - **GUARDIAN:** ["Back from the dead: could AI end grief?"](https://www.youtube.com/watch?v=5udOx8-QxtE)
+- **ABC News:** ["Generative AI helps grieving family remember their daughter"](https://www.youtube.com/watch?v=0JTzrYarcJw)

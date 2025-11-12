@@ -6,7 +6,7 @@ The analysis explores public perceptions and emotional responses to AI-mediated 
 
 ## Overview
 
-We analyzed **2,637 comments** from the YouTube documentary *“Living Forever Through AI: Digital Immortality and the Future of Death”* (ENDEVR). Our methodology combined:
+We analyzed a total of **2,765 comments** from the YouTube documentary *"Living Forever Through AI: Digital Immortality and the Future of Death"* (ENDEVR) and "_Back from the dead: could AI end grief?_" (Guardian). Our methodology combined:
 
 - **Sentiment Analysis** using fine-tuned LLMs (RoBERTa)
 - **Unsupervised Topic Modeling** with BERTopic

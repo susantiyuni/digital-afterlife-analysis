@@ -33,12 +33,12 @@ To visualize the analysis results, run the [`visualization.ipynb`](visualization
 | File | Description |
 |------|-------------|
 | `data/` | The dataset contains the downloaded YouTube comments, and the results of the analysis. |
-| `src/crawl.py` | Script for scraping YouTube comments. |
+| `src/crawling.py` | Script for scraping YouTube comments. |
 | `src/preprocess.py` | Script for cleaning and preparing text data for analysis. |
 | `src/sentiment-analysis.py` | Script for performing sentiment analysis using fine-tuned LLMs. |
 | `src/bertopic-analysis.py` | Script for topic modeling with BERTopic. |
-| `src/pipeline-analysis.ipynb` | Jupyter notebook demonstrating the full analysis pipeline. |
-| `src/visualization.ipynb` | Jupyter notebook for visualizing the analysis results. |
+| `pipeline.ipynb` | Jupyter notebook demonstrating the full analysis pipeline. |
+| `visualization.ipynb` | Jupyter notebook for visualizing the analysis results. |
 
 
 ## License
